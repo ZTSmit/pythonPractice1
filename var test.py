@@ -2,7 +2,7 @@ from math import factorial
 
 testVarBase = 50
 testVarBase2 = 55
-testVarMult = 2 #2 factorial less interesting
+#testVarMult = 2 #2 factorial less interesting
 testVarMult = 4
 testVarBool = True
 
